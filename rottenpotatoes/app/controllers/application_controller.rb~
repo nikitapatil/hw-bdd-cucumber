@@ -1,7 +1,3 @@
 class ApplicationController < ActionController::Base
-<<<<<<< HEAD
-#test comment
-=======
->>>>>>> fdc3d533b9a9a1d3a93c573a4e0e85baefbffce8
   protect_from_forgery
 end
